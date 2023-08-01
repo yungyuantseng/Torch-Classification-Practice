@@ -1,0 +1,14 @@
+src/cifar_net.pth
+src/__pycache__/VisualizationData.cpython-310.pyc
+src/data/cifar-10-python.tar.gz
+src/data/cifar-10-batches-py/batches.meta
+src/data/cifar-10-batches-py/data_batch_1
+src/data/cifar-10-batches-py/data_batch_2
+src/data/cifar-10-batches-py/data_batch_3
+src/data/cifar-10-batches-py/data_batch_4
+src/data/cifar-10-batches-py/data_batch_5
+src/data/cifar-10-batches-py/test_batch
+.vscode
+src/data/
+dog.jpg
+imagenet_classes.txt

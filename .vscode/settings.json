@@ -1,4 +1,18 @@
 {
-    "python.linting.pycodestyleEnabled": true,
-    "python.linting.enabled": true
+
+	"python.linting.pycodestyleEnabled": true,
+	
+	"python.linting.enabled": true,
+	
+	"python.linting.pydocstyleEnabled": false,
+	
+	"python.linting.pycodestyleArgs": ["--max-line-length=150"],
+	
+	"editor.rulers": [
+		150
+	],
+	"cSpell.words": [
+		"huggingface"
+	],
+
 }
